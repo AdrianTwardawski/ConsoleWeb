@@ -1,0 +1,30 @@
+
+POST https://localhost:5001/messages HTTP/1.1
+content-type: application/json
+
+{
+    "Senderid": 666,
+    "Recipientid": 667,
+    "Text": "cioujui",
+    "Sendate": "2020-10-18T16:35:00"
+}
+
+
+
+###
+GET https://localhost:5001/messages HTTP/1.1
+content-type: application/json
+
+###
+GET https://localhost:5001/messages/301 HTTP/1.1
+content-type: application/json
+
+###
+DELETE https://localhost:5001/messages/2014 HTTP/1.1
+content-type: application/json
+
+###
+DELETE https://localhost:5001/messages HTTP/1.1
+content-type: application/json
+
+

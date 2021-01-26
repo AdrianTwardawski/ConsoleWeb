@@ -1,0 +1,30 @@
+
+POST https://localhost:5001/users HTTP/1.1
+content-type: application/json
+
+{
+    //"Id": 666,
+    "Username": "Ziom"
+}
+
+
+###
+GET https://localhost:5001/users HTTP/1.1
+content-type: application/json
+
+###
+GET https://localhost:5001/users/2 HTTP/1.1
+content-type: application/json
+
+###
+DELETE https://localhost:5001/users/3 HTTP/1.1
+content-type: application/json
+
+###
+PATCH https://localhost:5001/users/2 HTTP/1.1
+content-type: application/json
+
+
+
+
+

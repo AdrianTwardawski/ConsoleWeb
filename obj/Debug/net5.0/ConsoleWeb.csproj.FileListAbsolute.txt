@@ -1,0 +1,16 @@
+C:\Users\Adrian\Desktop\c#\ConsoleWeb\obj\Debug\net5.0\ConsoleWeb.csprojAssemblyReference.cache
+C:\Users\Adrian\Desktop\c#\ConsoleWeb\obj\Debug\net5.0\ConsoleWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\Desktop\c#\ConsoleWeb\obj\Debug\net5.0\ConsoleWeb.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\c#\ConsoleWeb\obj\Debug\net5.0\ConsoleWeb.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\c#\ConsoleWeb\obj\Debug\net5.0\ConsoleWeb.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\c#\ConsoleWeb\obj\Debug\net5.0\ConsoleWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Adrian\Desktop\c#\ConsoleWeb\obj\Debug\net5.0\ConsoleWeb.RazorAssemblyInfo.cache
+C:\Users\Adrian\Desktop\c#\ConsoleWeb\obj\Debug\net5.0\ConsoleWeb.RazorAssemblyInfo.cs
+C:\Users\Adrian\Desktop\ConsoleWeb\obj\Debug\net5.0\ConsoleWeb.csprojAssemblyReference.cache
+C:\Users\Adrian\Desktop\ConsoleWeb\obj\Debug\net5.0\ConsoleWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\Desktop\ConsoleWeb\obj\Debug\net5.0\ConsoleWeb.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\ConsoleWeb\obj\Debug\net5.0\ConsoleWeb.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\ConsoleWeb\obj\Debug\net5.0\ConsoleWeb.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\ConsoleWeb\obj\Debug\net5.0\ConsoleWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Adrian\Desktop\ConsoleWeb\obj\Debug\net5.0\ConsoleWeb.RazorAssemblyInfo.cache
+C:\Users\Adrian\Desktop\ConsoleWeb\obj\Debug\net5.0\ConsoleWeb.RazorAssemblyInfo.cs
